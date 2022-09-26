@@ -1,6 +1,6 @@
 # Coffee Machine Simulator
 
-#### Video Demo:
+#### Video Demo: (https://youtu.be/zSmUPinpmfo)
 #### Description: Simulation of a user, a coffee machine and an employer responsible for that machine.
 
 Hello, this project is about simulating a coffee machine. A coffee machine works
